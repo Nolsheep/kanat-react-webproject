@@ -1,0 +1,9 @@
+/* styles/Post.css */
+.post {
+    background-color: #e7f3ff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
